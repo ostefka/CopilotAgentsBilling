@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fakturace Copilot Chat agentů
+description: Průvodce nastavením pay-as-you-go fakturace pro Copilot Chat a Copilot Studio agenty krok za krokem
 ---
 
 # Jak nastavit fakturaci pro Copilot Chat agenty (Microsoft 365 Admin Center)
