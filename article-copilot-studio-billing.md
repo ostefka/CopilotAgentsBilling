@@ -157,8 +157,8 @@ To enable pay-as-you-go billing for Copilot Studio agents from the **Power Platf
 > **Key differences from Copilot Chat agents (M365 admin center):**
 > - Power Platform billing plans are **environment-based** — you select which environments to link
 > - You choose which **product meters** to include (Copilot Studio, Dataverse, Power Apps, etc.)
-> - There is no separate "Choose users" or "Budget" step in the wizard — budget management is handled through Azure Cost Management
-> - One billing plan can cover **multiple products** across the same environment(s)
+> - There is no separate "Choose users" or "Budget" step in the wizard. Instead of assigning billing to users directly, you **assign a billing plan to environments** — and then manage which users have access to those environments. Budget management is handled through Azure Cost Management.
+> - One billing plan can serve **multiple environments**, and each environment can contain **multiple products**
 
 ---
 

@@ -158,8 +158,8 @@ Pro aktivaci pay-as-you-go fakturace pro Copilot Studio agenty z **Power Platfor
 > **Klíčové rozdíly oproti Copilot Chat agentům (M365 admin center):**
 > - Billing plans v Power Platform jsou **založené na prostředích** — vybíráte, která prostředí propojit
 > - Vybíráte, které **produktové metry** zahrnout (Copilot Studio, Dataverse, Power Apps atd.)
-> - V průvodci není samostatný krok „Choose users" ani „Budget" — správa rozpočtu se řeší přes Azure Cost Management
-> - Jeden billing plán může pokrývat **více produktů** ve stejných prostředích
+> - V průvodci není samostatný krok „Choose users" ani „Budget". Místo přiřazení fakturace přímo uživatelům zde **přiřazujete billing plán k prostředím** — a následně řídíte, kteří uživatelé mají přístup k daným prostředím. Správa rozpočtu se řeší přes Azure Cost Management.
+> - Jeden billing plán může obsluhovat **více prostředí** a každé prostředí může obsahovat **více produktů**
 
 ---
 
