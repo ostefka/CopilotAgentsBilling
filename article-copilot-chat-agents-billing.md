@@ -1,3 +1,8 @@
+---
+layout: default
+title: Copilot Chat Agents Billing
+---
+
 # How to Set Up Billing for Copilot Chat Agents (Microsoft 365 Admin Center)
 
 > **Target audience:** IT Admins / Tenant Admins

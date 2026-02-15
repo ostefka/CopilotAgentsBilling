@@ -1,3 +1,8 @@
+---
+layout: default
+title: Copilot Studio Agents Billing
+---
+
 # How to Set Up Billing for Copilot Studio Agents (Power Platform Admin Center)
 
 > **Target audience:** IT Admins / Tenant Admins
