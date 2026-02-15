@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+_site/
+.jekyll-cache/
+extract_images.py
